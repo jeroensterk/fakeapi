@@ -12,7 +12,8 @@
       "aspect_ratio": "16:9",
       "color_space": "sRGB",
       "price": 199,
-      "amazon_link": "https://amazon.com/test4"
+      "amazon_link": "https://amazon.com/test4", 
+      "image_link": "https://essentialoilskopen.nl/wp-content/monitor.jpg"
     },
     {
       "id": 2,
@@ -26,7 +27,8 @@
       "aspect_ratio": "16:9",
       "color_space": "sRGB",
       "price": 220,
-      "amazon_link": "https://amazon.com/test5"
+      "amazon_link": "https://amazon.com/test5", 
+      "image_link": "https://essentialoilskopen.nl/wp-content/monitor.jpg"
     },
     {
       "id": 3,
@@ -40,7 +42,8 @@
       "aspect_ratio": "16:9",
       "color_space": "sRGB",
       "price": 1100,
-      "amazon_link": "https://amazon.com/test6"
+      "amazon_link": "https://amazon.com/test6", 
+      "image_link": "https://essentialoilskopen.nl/wp-content/monitor.jpg"
     }
   ]
 }
