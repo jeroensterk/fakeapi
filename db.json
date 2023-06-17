@@ -1,0 +1,40 @@
+{
+  "monitors": [
+    {
+      "id": 1,
+      "name": "Monitor 1",
+      "screen_size": 27,
+      "resolution": "3840x2160",
+      "pixel_density": 163,
+      "refresh_rate": 60,
+      "response_time": 1,
+      "panel_type": "IPS",
+      "aspect_ratio": "16:9",
+      "color_space": "sRGB"
+    },
+    {
+      "id": 2,
+      "name": "Monitor 2",
+      "screen_size": 24,
+      "resolution": "1920x1080",
+      "pixel_density": 92,
+      "refresh_rate": 144,
+      "response_time": 1,
+      "panel_type": "TN",
+      "aspect_ratio": "16:9",
+      "color_space": "sRGB"
+    },
+    {
+      "id": 3,
+      "name": "Monitor 3",
+      "screen_size": 21,
+      "resolution": "1080x720",
+      "pixel_density": 50,
+      "refresh_rate": 72,
+      "response_time": 1,
+      "panel_type": "TN",
+      "aspect_ratio": "16:9",
+      "color_space": "sRGB"
+    }
+  ]
+}
