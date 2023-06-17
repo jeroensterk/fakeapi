@@ -10,7 +10,9 @@
       "response_time": 1,
       "panel_type": "IPS",
       "aspect_ratio": "16:9",
-      "color_space": "sRGB"
+      "color_space": "sRGB",
+      "price": 199,
+      "amazon_link": "https://amazon.com/test"
     },
     {
       "id": 2,
@@ -22,7 +24,9 @@
       "response_time": 1,
       "panel_type": "TN",
       "aspect_ratio": "16:9",
-      "color_space": "sRGB"
+      "color_space": "sRGB",
+      "price": 220,
+      "amazon_link": "https://amazon.com/test2"
     },
     {
       "id": 3,
@@ -34,7 +38,9 @@
       "response_time": 1,
       "panel_type": "TN",
       "aspect_ratio": "16:9",
-      "color_space": "sRGB"
+      "color_space": "sRGB",
+      "price": 1100,
+      "amazon_link": "https://amazon.com/test3"
     }
   ]
 }
