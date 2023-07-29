@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Monitor 1",
       "screen_size": 27,
-      "resolution": "4K",
+      "resolution": "3840x2160",
       "pixel_density": 163,
       "refresh_rate": 60,
       "response_time": 1,
@@ -12,16 +12,7 @@
       "aspect_ratio": "16:9",
       "color_space": "sRGB",
       "price": 199,
-      "amazon_link": "https://amazon.com/test4", 
-      "image_link": "https://essentialoilskopen.nl/wp-content/monitor.jpg", 
-      "brand": "Phillips", 
-      "color": "Black", 
-      "panel": "OLED", 
-      "energy_label": "A", 
-      "outputs": [
-        "HDMI", 
-        "VGA",
-      ]
+      "amazon_link": "https://amazon.com/test"
     },
     {
       "id": 2,
@@ -35,16 +26,7 @@
       "aspect_ratio": "16:9",
       "color_space": "sRGB",
       "price": 220,
-      "amazon_link": "https://amazon.com/test5", 
-      "image_link": "https://essentialoilskopen.nl/wp-content/monitor.jpg",
-      "brand": "Dell", 
-      "color": "Gray", 
-      "panel": "VA Panel", 
-      "energy_label": "B", 
-      "outputs": [
-        "HDMI", 
-        "DisplayPort",
-      ]
+      "amazon_link": "https://amazon.com/test2"
     },
     {
       "id": 3,
@@ -58,16 +40,7 @@
       "aspect_ratio": "16:9",
       "color_space": "sRGB",
       "price": 1100,
-      "amazon_link": "https://amazon.com/test6", 
-      "image_link": "https://essentialoilskopen.nl/wp-content/monitor.jpg",
-      "brand": "Samsung", 
-      "color": "Black", 
-      "panel": "IPS", 
-      "energy_label": "C", 
-      "outputs": [
-        "DisplayPort", 
-        "VGA",
-      ]
+      "amazon_link": "https://amazon.com/test3"
     }
   ]
 }
